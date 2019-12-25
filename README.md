@@ -1,0 +1,1 @@
+# jaeger-collector-stress
